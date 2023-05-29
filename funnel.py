@@ -1,4 +1,4 @@
-# seized is a white pal
+# https://t.me/bigddos
 # http://ip:port/api/attack?host=host&port=port&time=time&method=method
 # Cop WrldAPI best api in com and funnel it, ez pz
 import http.server
